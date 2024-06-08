@@ -1,0 +1,9 @@
+apscheduler
+certifi
+Pillow
+pytz
+six
+python-telegram-bot==13.7
+tornado
+tzlocal
+urllib3
